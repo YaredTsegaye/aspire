@@ -6,4 +6,5 @@ metadata:
     github.com/project-slug: YaredTsegaye/aspire
 spec:
   type: other
+  owner: yared.tsegaye@ais.com
   lifecycle: unknown
